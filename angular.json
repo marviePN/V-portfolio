@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "V-portfolio"
+    }
+  },
+  "defaultProject": "V-portfolio",
+  "cli": {
+    "analytics": "b7f6a266-86ef-43ec-9934-cbb0caf72e7e"
+  }
 }
